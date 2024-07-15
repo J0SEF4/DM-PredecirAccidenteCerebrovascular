@@ -1,2 +1,2 @@
-# Proyecto-Mineria-de-Datos
-Proyecto de Minería de Datos
+# Predecir un accidente cerebrovascular
+Proyecto de Minería de Datos PUC
