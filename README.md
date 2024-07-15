@@ -1,4 +1,7 @@
 # Predicción de Accidentes Cerebrovasculares usando Minería de Datos y Aprendizaje Automático
+
+Curso UC: Minería de Datos
+
 ## Integrantes del Equipo
 
 - Lucas Aguilera
