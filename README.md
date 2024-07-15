@@ -12,7 +12,7 @@ El repositorio está organizado de la siguiente manera:
 
 - **data/**: Conjunto de datos utilizado para entrenar y evaluar los modelos.
 - **Avance Proyecto/**: Código y presentación de avance.
-- **Proyecto final/**: Código y presentación final.
+- **Proyecto Final/**: Código y presentación final.
 
 ## Librerías Utilizadas
 - TensorFlow
